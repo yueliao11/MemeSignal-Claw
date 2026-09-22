@@ -71,3 +71,12 @@
 欢迎测试、反馈、转发！你的下一个 100x Meme 可能就在这里～ 🚀
 
 币安官方提醒：AI 代理使用存在风险，请谨慎配置权限，保护账户和资金安全。
+
+
+## ⚡ 推荐 AI 开发者工具与速率监控
+
+在部署多智能体自主循环与实时数据流时，监控大模型速率限制与额度复位窗口是保障 AI Agent 持续在线的关键：
+- **[Codex Reset Status](https://codexresetstatus.com/)**: 实时 OpenAI Codex 额度雷达与速率限制重置倒计时工具。
+  - [5小时限制重置倒计时](https://codexresetstatus.com/codex/5-hour-limit)
+  - [全球多时区重置时刻表](https://codexresetstatus.com/codex/reset-time)
+  - [额度消耗与计算器](https://codexresetstatus.com/calculator)
